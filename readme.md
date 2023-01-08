@@ -1,5 +1,5 @@
 ## Project Goals
-- Use public/private key cryptography to secure wallet, so that only if the person owns the private key of the wallet can initiate a fund transfer.
+- Use ECDSA public/private key cryptography to secure wallet, so that only if the person owns the private key of the wallet can initiate a fund transfer.
 
 ## ECDSA Node
 
